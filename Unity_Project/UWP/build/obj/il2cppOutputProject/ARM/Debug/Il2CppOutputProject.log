@@ -1,0 +1,90 @@
+﻿  Building GameAssembly.dll with MsvcWinRtToolChain
+  	Msvc Install Version: 15.0
+  	Msvc Install SDK Directory: C:\Program Files (x86)\Windows Kits\10
+  	Msvc Linker Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.24.28314\bin\HostX64\ARM\link.exe
+  	Msvc Compiler Path: C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.24.28314\bin\HostX64\ARM\cl.exe
+  
+  	Output directory: C:\Users\jodys\Vandy\Courses\CS8395 - Augmented Reality\Assignments\Assign-2-Book-Target\Unity_Project\UWP\build\bin\ARM\Debug
+  	Cache directory: C:\Users\jodys\Vandy\Courses\CS8395 - Augmented Reality\Assignments\Assign-2-Book-Target\Unity_Project\UWP\build\obj\il2cppOutputProject\ARM\Debug
+  Il2CppGenericMethodDefinitions.cpp
+  Il2CppGenericMethodPointerTable.cpp
+  Il2CppMethodPointerTable.cpp
+  Il2CppSequencePointTable2.cpp
+  Il2CppSequencePointTable1.cpp
+  Bulk_Unity.TextMeshPro_0.cpp
+  Il2CppMetadataUsage.cpp
+  Il2CppAttributes.cpp
+  Il2CppInvokerTable.cpp
+  Il2CppTypeDefinitions.cpp
+  Il2CppGenericMethodTable.cpp
+  Il2CppSequencePointTable3.cpp
+  Bulk_mscorlib_14.cpp
+  Bulk_Vuforia.UnityExtensions_2.cpp
+  Bulk_mscorlib_6.cpp
+  GenericMethods5.cpp
+  Bulk_Generics_2.cpp
+  Bulk_Unity.TextMeshPro_2.cpp
+  Bulk_Unity.TextMeshPro_3.cpp
+  Bulk_mscorlib_9.cpp
+  Bulk_Unity.TextMeshPro_1.cpp
+  Bulk_mscorlib_16.cpp
+  Bulk_mscorlib_5.cpp
+  GenericMethods0.cpp
+  Bulk_mscorlib_13.cpp
+  Bulk_Vuforia.UnityExtensions_1.cpp
+  Bulk_Generics_1.cpp
+  Bulk_UnityEngine.UI_2.cpp
+  Bulk_mscorlib_8.cpp
+  Bulk_Vuforia.UnityExtensions_0.cpp
+  Bulk_System_3.cpp
+  GenericMethods3.cpp
+  Bulk_mscorlib_11.cpp
+  Bulk_System.Xml_3.cpp
+  Bulk_mscorlib_12.cpp
+  Bulk_System_2.cpp
+  Bulk_System_4.cpp
+  Bulk_Generics_6.cpp
+  Bulk_System_1.cpp
+  GenericMethods6.cpp
+  Bulk_System_0.cpp
+  Bulk_Vuforia.UnityExtensions_3.cpp
+  Bulk_mscorlib_3.cpp
+  Bulk_Unity.TextMeshPro_4.cpp
+  Bulk_System.Xml_0.cpp
+  Il2CppGenericClassTable.cpp
+  Bulk_mscorlib_0.cpp
+  Bulk_mscorlib_2.cpp
+  Bulk_mscorlib_19.cpp
+  GenericMethods1.cpp
+  Bulk_UnityEngine.UI_1.cpp
+  Bulk_mscorlib_17.cpp
+  Bulk_mscorlib_1.cpp
+  Bulk_mscorlib_15.cpp
+  Bulk_System.Xml_1.cpp
+  Bulk_mscorlib_7.cpp
+  Bulk_Generics_7.cpp
+  Bulk_mscorlib_4.cpp
+  Bulk_UnityEngine.UI_3.cpp
+  GenericMethods4.cpp
+  Bulk_mscorlib_10.cpp
+  Il2CppSequencePointIndexTable.cpp
+  Bulk_mscorlib_20.cpp
+  Bulk_System.Xml_2.cpp
+  Bulk_mscorlib_18.cpp
+  Bulk_System.Xml_4.cpp
+  Bulk_System_5.cpp
+  Bulk_UnityEngine.CoreModule_0.cpp
+  Bulk_Generics_25.cpp
+  Bulk_Generics_13.cpp
+  Bulk_UnityEngine.CoreModule_2.cpp
+  Bulk_Generics_26.cpp
+  Bulk_Generics_8.cpp
+  Bulk_Generics_0.cpp
+  GenericMethods2.cpp
+  Bulk_Generics_14.cpp
+  Bulk_Generics_24.cpp
+  Bulk_UnityEngine.UI_0.cpp
+  Bulk_Generics_21.cpp
+  Bulk_UnityEngine.CoreModule_1.cpp
+  Bulk_Generics_5.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): warning MSB5021: Terminating the task executable "cmd" and its child processes because the build was canceled.
