@@ -12,8 +12,8 @@
 
  The project was created using Unity version 2019.2.19f1 (64-bit) and the add-in package of Vuforia version 8.6.7. After loading the project into Unity and selecting which camera to use on the local computer, click the play button at the top of the Unity interface.  By using a printed version of the book cover (provided with this repository) in the field of view of the camera the objects should appear on the printout in the 3D scene.
 
- This project is a complete rework of Assign-1-Book-Target as the original had some deficiencies and errors.  For this project audio was audio sounds were
- added when the book cover image targets are acquired and when the targets are lost to the camera.  Facts from each off the book chapters were added with 
+ This project is a complete rework of Assign-1-Book-Target as the original had some deficiencies and errors.  For this project audio sounds were added when 
+ the book cover image targets are acquired and when the targets are lost to the camera.  Facts from each of the book chapters were added with 
  virtual decrement/increment buttons to sequence through the chapters.  Three dimensional animals are displayed that are representative of each chapter.
  
  
